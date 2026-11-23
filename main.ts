@@ -1,5 +1,6 @@
 // One-line pitch for make.fun's "A Day of One-Line Pitches" bounty.
-// Writes a single sentence (<= 240 characters) to /output/entry.txt.
+// Writes a single sentence to /output/entry.txt. The gate allows 1-240
+// characters; this pitch is 237, so it passes with 3 characters to spare.
 // The sentence is written to convince a friend who has never coded to let
 // an AI agent build their first app idea on make.fun: it names the concrete
 // action (describe the idea in plain words), the payoff (a first working
